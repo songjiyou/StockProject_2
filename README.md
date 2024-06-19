@@ -115,7 +115,8 @@ XCODE
 
 
 ## 발표 영상
-<https://youtu.be/CQGhYMK7sxM>
+[발표 영상 링크](https://youtu.be/CQGhYMK7sxM)
+
 
 
 ## 프로젝트를 하면서 느낀 점
