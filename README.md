@@ -116,7 +116,7 @@ XCODE
 
 
 ## 🎥 발표 영상
-[![스크린샷 2024-06-19 200614](https://github.com/songjiyou/StockProject_2/assets/150700768/94b77b09-ab54-4cb7-980e-297c204efb1b)](https://youtu.be/CQGhYMK7sxM)
+[![스크린샷 2024-06-19 194541](https://github.com/songjiyou/StockProject_2/assets/150700768/c5a68e36-f7d1-4cfb-b4da-4a60fcc3da97)](https://youtu.be/CQGhYMK7sxM)
 
 
 
