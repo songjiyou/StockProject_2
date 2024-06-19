@@ -115,8 +115,8 @@
 XCODE 
 
 
-## 🔐 발표 영상
-![스크린샷 2024-06-19 194541](https://github.com/songjiyou/StockProject_2/assets/150700768/5e980076-ddd1-4f14-a7c4-9aee5c6063b4)(https://youtu.be/CQGhYMK7sxM)
+## 🎥 발표 영상
+[발표 영상 링크](https://youtu.be/CQGhYMK7sxM)
 
 
 
