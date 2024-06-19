@@ -80,7 +80,7 @@
 - 주식 차트가 크게 보여 관심있는 기업에 대해 빠르게 추세를 알 수 있고 다양한 금융 시장의 실시간 데이터와 연동됩니다.
 
 
-#### 2-5. Seartbar + Search Button
+#### 2-5. Search Bar + Search Button
 ![image](https://github.com/songjiyou/StockProject_2/assets/150700768/5342f5f6-f837-4ebf-80ff-5c9ec1e8d7d9)
 
 - 검색바에 원하는 홈페이지 주소를 입력하면 이동도 가능합니다.
