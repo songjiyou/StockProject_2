@@ -1,5 +1,5 @@
-#  America Stock Information Application
-## 📉 미국 주식 정보를 제공하는 애플리케이션
+#  📉 America Stock Information Application
+## 미국 주식 정보를 제공하는 애플리케이션
 
 ## 📑 목차
 - [개발 이유]
