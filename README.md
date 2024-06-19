@@ -64,9 +64,6 @@
 - 실시간 데이터와 광범위한 금융 시장 정보를 제공하는 것이 특징입니다.
 
 
-![image](https://github.com/songjiyou/StockProject_2/assets/150700768/6a7efd34-5937-4017-b311-5ef19b9a17b5)
-
-
 #### 2-2. Seeking Alpha
 ![image](https://github.com/songjiyou/StockProject_2/assets/150700768/6fc07ade-b89a-4c5b-af58-84d5252fe2bb)
 - 커뮤니티 중심으로 애널리스트들의 주식에 대한 분석을 볼 수 있고 사용자 맞춤형 포토폴리오를 작성할 수 있습니다.
@@ -91,7 +88,7 @@
 ### 3. Stock Video
 ![image](https://github.com/songjiyou/StockProject_2/assets/150700768/08d7d8e3-3798-460e-ba73-1d72b1b0e139)
 
-- 기본적으로 유튜브가 나오면 밑에는 미국 주식 관련 링크를 추가하였습니다. 링크를 클릭하여 봐도 되고, 유튜브에 직접 검색하여 원하는 미국 주식 영상을 봐도 됩니다.
+- 기본적으로 유튜브가 나오며, 밑에는 미국 주식 관련 링크를 추가하였습니다. 링크를 클릭하여 봐도 되고, 유튜브에 직접 검색하여 원하는 미국 주식 영상을 봐도 됩니다.
 
 
 #### 3-1. 링크 영상
@@ -101,7 +98,7 @@
 
 ### 4. 환율
 ![image](https://github.com/songjiyou/StockProject_2/assets/150700768/f26b055a-af45-46ec-8f48-d51415868e67)
-- 홈화면에서 하단에 'Exchage Rate' 버튼을 눌러 이동해서 창에 숫자를 입력 후 'USD Convert' 버튼을 누르면 해당 숫자의 한국 돈이 계산됩니다.
+- 홈화면 하단에 'Exchage Rate' 버튼을 눌러 이동해서 창에 숫자를 입력 후 'USD Convert' 버튼을 누르면 해당 숫자의 한국 돈이 계산됩니다.
 
 
 ## 프로젝트 구조
